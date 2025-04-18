@@ -24,6 +24,7 @@ on:
           - zn_m2_libwrt
           - x64_immwrt
           - jdcloud_ax5_libwrt
+          - jdcloud_ax1800pro_libwrt
       runs-on:
         required: true
         description: Runs on...
