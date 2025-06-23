@@ -23,6 +23,7 @@ on:
           - zn_m2_immwrt
           - zn_m2_libwrt
           - x64_immwrt
+          - jdcloud_ipq60xx_libwrt
       runs-on:
         required: true
         description: Runs on...
